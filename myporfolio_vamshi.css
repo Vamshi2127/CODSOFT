@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar_icon {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    border-style: solid;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.banner_section_bg_container {
+    background-color: #191a1d;
+    height: 110vh;
+}
+
+.image_size_1 {
+    width: 100%;
+    height: 85%;
+    border-radius: 600px;
+    margin-bottom: 10px;
+}
+
+.jenny_content {
+    color: #4b6cc1;
+}
+
+.banner_section_heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.button {
+    color: white;
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 10px;
+}
+
+
+
+
+.bg_container {
+    background-color: #323f4b;
+}
+
+.image_size2 {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.facts_heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.about_heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: "Roboto";
+}
+
+.content_paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.bg_container_2 {
+    background-color: #1f2933;
+}
+
+.image_skills {
+    width: 64px;
+    height: 64px;
+}
+
+.skills_bg {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.skills_heading {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+
+
+.protfolio_bg_container {
+    background-color: #3e4c59;
+}
+
+.Portfolio_heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.projects_heading {
+    color: #ffffff;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Portfolio_image {
+    width: 100%;
+}
+
+.bg_container_1 {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.design_heading {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.hotel_heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.hotel_content {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.read_more_button {
+    color: #cced00;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+
+
+
+.service_bg_container {
+    background-color: #52606d;
+}
+
+.section_heading {
+    color: #cced00;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.what_i_do_heading {
+    color: #ffffff;
+    font-size: 46px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.websits_bg_container {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.websites_image {
+    width: 59px;
+    height: 59px;
+}
+
+.websites_heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.website_content {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 32px;
+}
+
+
+
+.bg_container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    width: 100%;
+    background-size: cover;
+}
+
+.icon {
+    color: white;
+}
+
+.horizontal_line {
+    background-color: white;
+    width: 60px;
+}
+
+.content_number {
+    color: white;
+}
+
+
+
+
+.bg_container {
+    background-color: #1f2933;
+    padding: 40px;
+}
+
+.Testimonials_heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.our_members_heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.content_bg_container {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.image_size {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.about_content {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.name_heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+
+
+.porfolio_bg_section {
+    background-color: #0d2436;
+}
+
+.image_size4 {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+}
+
+.protfolio_name_heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.portfolio_cintent {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.copyright_bg_container {
+    text-align: center;
+    color: #ffffff;
+    background-color: #001c32;
+    padding: 10px;
+}
+
+
+.projeect_heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+}

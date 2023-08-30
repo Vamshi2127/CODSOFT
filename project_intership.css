@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg_container {
+    background-color: black;
+    width: 100%;
+    background-size: cover;
+}
+
+.navbar_bg {
+    background-color: #171612;
+}
+
+.Items_size {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.Items_size_1 {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.image_size {
+    height: 90px;
+    width: 90px;
+    color: #ffffff;
+}
+
+.button {
+    border-width: 2px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    background-image: linear-gradient(to right, #02f22e, #484f44);
+    border-color: #ffffff;
+}
+
+.travel_imgae {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+}
+
+.save_color {
+    color: #22612d;
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.content_heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.para_content {
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.button_1 {
+    border-width: 2px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    font-family: "Roboto";
+    font-size: 25px;
+    background-image: linear-gradient(to right, #02f22e, #484f44);
+    border-color: #ffffff;
+    margin: 5px;
+}
+
+.button_2 {
+    border-width: 2px;
+    width: 230px;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    font-family: "Roboto";
+    font-size: 25px;
+    background-image: linear-gradient(to right, #02f22e, #484f44);
+    border-color: #ffffff;
+    margin: 5px;
+}
+
+.why_to_heading {
+    color: #ffffff;
+    font-family: "lora";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.travel_color {
+    color: #04cc22;
+    font-family: "Caveat";
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.para_content_2 {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.icon {
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.money_heading {
+    color: #ffffff;
+    font-family: "areial";
+    font-size: 40px;
+}
+
+.money_para {
+    color: #ffffff;
+    font-family: "areial";
+    font-size: 20px;
+    text-align: center;
+}
+
+.bg_contyainer_2 {
+    background-image: url("https://res.cloudinary.com/vamshi27/image/upload/v1685599653/images_12_nvlney.jpg");
+    background-size: cover;
+    opacity: 0.8;
+    width: 100%;
+}
+
+.horixzontal_lie {
+    color: #02f22e;
+    border-width: 10px;
+    height: 2px;
+}
+
+.bg_heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bg_para {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "roboto";
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.image {
+    height: 15vh;
+    width: 15vw;
+}
+
+.footer_content {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.icon_size {
+    font-size: 40px;
+    margin: 5px;
+}
+
+.about_heading {
+    color: #02f22e;
+}
+
+.items_list {
+    color: #ffffff;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.contact_heading {
+    color: #02f22e;
+    font-size: 35px;
+}
+
+.items_list_1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.sub_heading {
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+}
+
+.sub_button {
+    color: #ffffff;
+    border-width: 0;
+    background-color: #02f22e;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
